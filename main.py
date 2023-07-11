@@ -1,6 +1,6 @@
 from chain import get_chain
 
-file_name = ""
+file_name = "./pdf/game-manual.pdf"
 chain = get_chain(file_name)
 
 if __name__=="__main__":
